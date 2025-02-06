@@ -1,4 +1,4 @@
-The most popular fish measures for this countries: USA, Argentina, Colombia, Chile, Ecuador, Spain, Mexico and Peru. Comparing the measures can you know if you need to return the fish to the ocean, river or lake.
+The most popular fish minimum measures for this countries: USA, Argentina, Colombia, Chile, Ecuador, Spain, Mexico and Peru. Comparing the measures can you know if you need to return the fish to the ocean, river or lake.
 You are welcome to add the popular fish size for your country in this units: centimeters, inches, foots and meters in this respository.
 
 By example I'm using this database in Pescadometro (Fishmeter), an iPhone app for easily measure fish captures with your iPhone as if you were using a ruler, take screenshots and compare the size. The app use augmented reality and computer vision.
