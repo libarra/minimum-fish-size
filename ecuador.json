@@ -1,0 +1,19 @@
+{
+  "ecuador": [
+    {"name": "Albacora", "minimumSizeCm": 75.0, "minimumSizeInch": 29.53, "minimumSizeMeter": 0.75, "minimumSizeFoot": 2.46},
+    {"name": "Bacalao", "minimumSizeCm": 40.0, "minimumSizeInch": 15.75, "minimumSizeMeter": 0.40, "minimumSizeFoot": 1.31},
+    {"name": "Bocachico", "minimumSizeCm": 30.0, "minimumSizeInch": 11.81, "minimumSizeMeter": 0.30, "minimumSizeFoot": 0.98},
+    {"name": "Corvina", "minimumSizeCm": 60.0, "minimumSizeInch": 23.62, "minimumSizeMeter": 0.60, "minimumSizeFoot": 1.97},
+    {"name": "Dorado", "minimumSizeCm": 80.0, "minimumSizeInch": 31.50, "minimumSizeMeter": 0.80, "minimumSizeFoot": 2.62},
+    {"name": "Escorpa", "minimumSizeCm": 30.0, "minimumSizeInch": 11.81, "minimumSizeMeter": 0.30, "minimumSizeFoot": 0.98},
+    {"name": "Jurel", "minimumSizeCm": 45.0, "minimumSizeInch": 17.72, "minimumSizeMeter": 0.45, "minimumSizeFoot": 1.48},
+    {"name": "Linguado", "minimumSizeCm": 50.0, "minimumSizeInch": 19.69, "minimumSizeMeter": 0.50, "minimumSizeFoot": 1.64},
+    {"name": "Mero", "minimumSizeCm": 80.0, "minimumSizeInch": 31.50, "minimumSizeMeter": 0.80, "minimumSizeFoot": 2.62},
+    {"name": "Pargo", "minimumSizeCm": 40.0, "minimumSizeInch": 15.75, "minimumSizeMeter": 0.40, "minimumSizeFoot": 1.31},
+    {"name": "Pejerrey", "minimumSizeCm": 30.0, "minimumSizeInch": 11.81, "minimumSizeMeter": 0.30, "minimumSizeFoot": 0.98},
+    {"name": "Robalo", "minimumSizeCm": 65.0, "minimumSizeInch": 25.59, "minimumSizeMeter": 0.65, "minimumSizeFoot": 2.13},
+    {"name": "Sábalo", "minimumSizeCm": 35.0, "minimumSizeInch": 13.78, "minimumSizeMeter": 0.35, "minimumSizeFoot": 1.15},
+    {"name": "Tiburón", "minimumSizeCm": 80.0, "minimumSizeInch": 31.50, "minimumSizeMeter": 0.80, "minimumSizeFoot": 2.62},
+    {"name": "Tollo", "minimumSizeCm": 60.0, "minimumSizeInch": 23.62, "minimumSizeMeter": 0.60, "minimumSizeFoot": 1.97}
+  ]
+}

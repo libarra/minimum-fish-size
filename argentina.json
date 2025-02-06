@@ -1,0 +1,23 @@
+{
+  "argentina": [
+    {"name": "Bagre de mar", "minimumSizeCm": 50.0, "minimumSizeInch": 19.69, "minimumSizeMeter": 0.50, "minimumSizeFoot": 1.64},
+    {"name": "Besugo", "minimumSizeCm": 25.0, "minimumSizeInch": 9.84, "minimumSizeMeter": 0.25, "minimumSizeFoot": 0.82},
+    {"name": "Brótola", "minimumSizeCm": 36.0, "minimumSizeInch": 14.17, "minimumSizeMeter": 0.36, "minimumSizeFoot": 1.18},
+    {"name": "Caballa", "minimumSizeCm": 28.0, "minimumSizeInch": 11.02, "minimumSizeMeter": 0.28, "minimumSizeFoot": 0.92},
+    {"name": "Corvina negra", "minimumSizeCm": 60.0, "minimumSizeInch": 23.62, "minimumSizeMeter": 0.60, "minimumSizeFoot": 1.97},
+    {"name": "Corvina rubia", "minimumSizeCm": 35.0, "minimumSizeInch": 13.78, "minimumSizeMeter": 0.35, "minimumSizeFoot": 1.15},
+    {"name": "Dorado", "minimumSizeCm": 65.0, "minimumSizeInch": 25.59, "minimumSizeMeter": 0.65, "minimumSizeFoot": 2.13},
+    {"name": "Lenguado", "minimumSizeCm": 45.0, "minimumSizeInch": 17.72, "minimumSizeMeter": 0.45, "minimumSizeFoot": 1.48},
+    {"name": "Mero", "minimumSizeCm": 40.0, "minimumSizeInch": 15.75, "minimumSizeMeter": 0.40, "minimumSizeFoot": 1.31},
+    {"name": "Pez palo", "minimumSizeCm": 36.0, "minimumSizeInch": 14.17, "minimumSizeMeter": 0.36, "minimumSizeFoot": 1.18},
+    {"name": "Pintado", "minimumSizeCm": 85.0, "minimumSizeInch": 33.46, "minimumSizeMeter": 0.85, "minimumSizeFoot": 2.79},
+    {"name": "Sábalo", "minimumSizeCm": 42.0, "minimumSizeInch": 16.54, "minimumSizeMeter": 0.42, "minimumSizeFoot": 1.38},
+    {"name": "Tararira", "minimumSizeCm": 40.0, "minimumSizeInch": 15.75, "minimumSizeMeter": 0.40, "minimumSizeFoot": 1.31},
+    {"name": "Trucha arco iris", "minimumSizeCm": 35.0, "minimumSizeInch": 13.78, "minimumSizeMeter": 0.35, "minimumSizeFoot": 1.15},
+    {"name": "Trucha marrón", "minimumSizeCm": 40.0, "minimumSizeInch": 15.75, "minimumSizeMeter": 0.40, "minimumSizeFoot": 1.31},
+    {"name": "Trucha de arroyo", "minimumSizeCm": 30.0, "minimumSizeInch": 11.81, "minimumSizeMeter": 0.30, "minimumSizeFoot": 0.98},
+    {"name": "Surubí", "minimumSizeCm": 85.0, "minimumSizeInch": 33.46, "minimumSizeMeter": 0.85, "minimumSizeFoot": 2.79},
+    {"name": "Pejerrey", "minimumSizeCm": 25.0, "minimumSizeInch": 9.84, "minimumSizeMeter": 0.25, "minimumSizeFoot": 0.82},
+    {"name": "Chafalote", "minimumSizeCm": 55.0, "minimumSizeInch": 21.65, "minimumSizeMeter": 0.55, "minimumSizeFoot": 1.80}
+  ]
+}

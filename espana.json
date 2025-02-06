@@ -1,0 +1,16 @@
+{
+  "espana": [
+    {"name": "Bacalao", "minimumSizeCm": 50.0, "minimumSizeInch": 19.69, "minimumSizeMeter": 0.50, "minimumSizeFoot": 1.64},
+    {"name": "Besugo", "minimumSizeCm": 30.0, "minimumSizeInch": 11.81, "minimumSizeMeter": 0.30, "minimumSizeFoot": 0.98},
+    {"name": "Dorada", "minimumSizeCm": 38.0, "minimumSizeInch": 14.96, "minimumSizeMeter": 0.38, "minimumSizeFoot": 1.25},
+    {"name": "Lenguado", "minimumSizeCm": 30.0, "minimumSizeInch": 11.81, "minimumSizeMeter": 0.30, "minimumSizeFoot": 0.98},
+    {"name": "Mero", "minimumSizeCm": 70.0, "minimumSizeInch": 27.56, "minimumSizeMeter": 0.70, "minimumSizeFoot": 2.30},
+    {"name": "Pargo", "minimumSizeCm": 40.0, "minimumSizeInch": 15.75, "minimumSizeMeter": 0.40, "minimumSizeFoot": 1.31},
+    {"name": "Rape", "minimumSizeCm": 60.0, "minimumSizeInch": 23.62, "minimumSizeMeter": 0.60, "minimumSizeFoot": 1.97},
+    {"name": "Sardina", "minimumSizeCm": 11.0, "minimumSizeInch": 4.33, "minimumSizeMeter": 0.11, "minimumSizeFoot": 0.36},
+    {"name": "Salmón", "minimumSizeCm": 60.0, "minimumSizeInch": 23.62, "minimumSizeMeter": 0.60, "minimumSizeFoot": 1.97},
+    {"name": "Trucha", "minimumSizeCm": 30.0, "minimumSizeInch": 11.81, "minimumSizeMeter": 0.30, "minimumSizeFoot": 0.98},
+    {"name": "Tiburón", "minimumSizeCm": 80.0, "minimumSizeInch": 31.50, "minimumSizeMeter": 0.80, "minimumSizeFoot": 2.62},
+    {"name": "Ventresca", "minimumSizeCm": 80.0, "minimumSizeInch": 31.50, "minimumSizeMeter": 0.80, "minimumSizeFoot": 2.62}
+  ]
+}
