@@ -23,7 +23,7 @@
     { "name": "Falso volador", "minimumSizeCm": 20, "minimumSizeInch": 7.87, "minimumSizeMeter": 0.20, "minimumSizeFoot": 0.66 },
     { "name": "Grandazo", "minimumSizeCm": 60, "minimumSizeInch": 23.62, "minimumSizeMeter": 0.60, "minimumSizeFoot": 1.97 },
     { "name": "Jurel", "minimumSizeCm": 31, "minimumSizeInch": 12.20, "minimumSizeMeter": 0.31, "minimumSizeFoot": 1.02 },
-    { "name": "Lenguado", "minimumSizeCm": 50, "minimumSizeInch": 19.69, "minimumSizeMeter": 0.50, "minimumSizeFoot": 1.64 },
+    { "name": "Lenguado", "minimumSizeCm": 38, "minimumSizeInch": 14.96, "minimumSizeMeter": 0.38, "minimumSizeFoot": 1.25 },
     { "name": "Lenguado ojón", "minimumSizeCm": 22, "minimumSizeInch": 8.66, "minimumSizeMeter": 0.22, "minimumSizeFoot": 0.72 },
     { "name": "Lisa", "minimumSizeCm": 37, "minimumSizeInch": 14.57, "minimumSizeMeter": 0.37, "minimumSizeFoot": 1.21 },
     { "name": "Lorna", "minimumSizeCm": 24, "minimumSizeInch": 9.45, "minimumSizeMeter": 0.24, "minimumSizeFoot": 0.79 },
