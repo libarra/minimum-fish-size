@@ -1,3 +1,25 @@
+Folders and files structure
+
+excel
+   ├─ argentina.xlsx
+   ├─ chile.xlsx
+   ├─ colombia.xlsx
+   ├─ ecuador.xlsx
+   ├─ espana.xlsx
+   ├─ mexico.xlsx
+   ├─ peru.xlsx
+   └─ usa.xlsx
+
+json
+   ├─ argentina.json
+   ├─ chile.json
+   ├─ colombia.json
+   ├─ ecuador.json
+   ├─ espana.json
+   ├─ mexico.json
+   ├─ peru.json
+   └─ usa.json
+
 The most popular fish minimum capture measures for this countries: USA, Argentina, Colombia, Chile, Ecuador, Spain, Mexico and Peru. Comparing the measures can you know if you need to return the fish to the ocean, river or lake.
 You are welcome to add or update the popular fish size list for your country in this units: centimeters, inches, feet and meters in this respository.
 
