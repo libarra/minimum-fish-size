@@ -2,9 +2,7 @@ Folders and files structure
 
 excel
    ├─ argentina.xlsx
-   
    ├─ chile.xlsx
-   
    ├─ colombia.xlsx
    ├─ ecuador.xlsx
    ├─ espana.xlsx
