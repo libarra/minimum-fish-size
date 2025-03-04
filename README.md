@@ -1,14 +1,14 @@
 Folders and files structure
 
-excel
-   ├─ argentina.xlsx
-   ├─ chile.xlsx
-   ├─ colombia.xlsx
-   ├─ ecuador.xlsx
-   ├─ espana.xlsx
-   ├─ mexico.xlsx
-   ├─ peru.xlsx
-   └─ usa.xlsx
+excel<br />
+   ├─ argentina.xlsx<br />
+   ├─ chile.xlsx<br />
+   ├─ colombia.xlsx<br />
+   ├─ ecuador.xlsx<br />
+   ├─ espana.xlsx<br />
+   ├─ mexico.xlsx<br />
+   ├─ peru.xlsx<br />
+   └─ usa.xlsx<br />
 
 json
    ├─ argentina.json
